@@ -10,7 +10,9 @@ The parameters of design:
 
 ### 设计简介
 
-Multisim 14中没有TH72002芯片，本文采用的是自己添加封装。
+Multisim 14中没有TH72002芯片，本文采用的是自己添加封装。制板用Multisim图为：
+
+<img src="./img/4.jpg">
 
 ### 附件
 
